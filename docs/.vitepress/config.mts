@@ -21,6 +21,7 @@ export default defineConfig({
             items: [
               { text: 'RUYISDK 简介', link: '/process/intro/' },
               { text: '版本规划路线图', link: '/process/plan/' },
+              { text: '24.06版本计划', link: '/process/plan/24.06' }
             ]
           },
           { text: '需求定义',
